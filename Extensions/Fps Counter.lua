@@ -23,7 +23,7 @@ FpsCount.Text = "Fps : 30"
 FpsCount.TextColor3 = Color3.fromRGB(255, 255, 255)
 FpsCount.TextSize = 14.000
 
-local function YTBZGMM_fake_script() -- FpsCount.LocalScript 
+local function YTBZGMM_fake_script() 
 	local script = Instance.new('LocalScript', FpsCount)
 
 	local FPS = 0;
