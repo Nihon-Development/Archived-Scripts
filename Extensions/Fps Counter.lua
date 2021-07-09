@@ -3,7 +3,7 @@ local FpsCountFrame = Instance.new("Frame")
 local FpsCount = Instance.new("TextLabel")
 
 NihonFpsCounter.Name = "NihonFpsCounter"
-NihonFpsCounter.Parent = game.Workspace
+NihonFpsCounter.Parent = game.CoreGui
 NihonFpsCounter.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 FpsCountFrame.Name = "FpsCountFrame"
