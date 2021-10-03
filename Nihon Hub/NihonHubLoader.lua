@@ -1,7 +1,7 @@
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nihon-Development/Nihon-Scripts/main/Nihon%20Hub/Games/IrisBetterNotifications.lua"))()
 
 function notify(title, desc)
-    Notification.Notify(title, desc, "rbxassetid://7638932765", {
+    Notification.Notify(title, desc, "rbxassetid://7638932747", {
         Duration = 7,
         
         TitleSettings = {
