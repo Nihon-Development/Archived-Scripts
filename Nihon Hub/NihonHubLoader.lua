@@ -34,5 +34,9 @@ else
         wait(3)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Nihon-Development/Nihon-Scripts/main/Nihon%20Hub/Games/TowerOfHell.lua"))()
         notify("Nihon Hub", "Make sure to use an alt since you could get banned.")
+    elseif game.PlaceId == 155615604 then -- Prison Lie
+        notify("Nihon Hub", "Prison Life detected, loading script.\nYour game might lag a bit.")
+        wait(3)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Nihon-Development/Nihon-Scripts/main/Nihon%20Hub/Games/PrisonLife.lua"))()
     end
 end
