@@ -42,5 +42,14 @@
 		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
 		"Creator": "Edge",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/890324951347920939/900221474403668039/unknown.png"	
- 	}
+ 	},
+ 	{
+		"Id": 6,
+		"Title": "CMD-X",
+		"Description": "Tons Of Features Like Inf. Yield Really Fun",
+		"Type": "Utility",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()",
+		"Creator": "CMD-X Devs",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900561361589919794/unknown.png"	
+	}
 ]
