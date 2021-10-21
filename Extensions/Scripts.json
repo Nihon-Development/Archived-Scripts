@@ -1,7 +1,7 @@
 [{
 		"Id": 1,
 		"Title": "Dark Hub",
-		"Description": "Best Script For FPS Games, Aimbot | ESP | Silent Aim And More",
+		"Description": "Best Script For FPS Games, Aimbot | ESP | Silent Aim",
 		"Type": "Hub",
 		"Script": "loadstring(game:HttpGet(('https://darkhub.xyz/remote-script.lua'), true))()",
 		"Creator": "Bye",
@@ -19,7 +19,7 @@
 	{
 		"Id": 3,
 		"Title": "Dex V4",
-		"Description": "Best Instance Explorer For Roblox, Script Helps With Many Things",
+		"Description": "Best Instance Explorer For Roblox",
 		"Type": "Utility",
 		"Script": "loadstring(game:GetObjects('rbxassetid://418957341')[1].Source)()",
 		"Creator": "Moon",
