@@ -51,5 +51,14 @@
 		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()",
 		"Creator": "CMD-X Devs",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900561361589919794/unknown.png"	
+	},
+ 	{
+		"Id": 7,
+		"Title": "Nihon Hub",
+		"Description": "Nihon's Very Own Hub With Some Of The Games You Love",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Nihon-Development/Nihon-Scripts/main/Nihon%20Hub/NihonHubLoader.lua', true))()",
+		"Creator": "SirWeeb",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900568660886814830/Nihon_Logo.png"	
 	}
 ]
