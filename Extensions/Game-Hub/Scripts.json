@@ -91,7 +91,7 @@
     	{
 		"Id": 11,
 		"Title": "Remote Spy",
-		"Description": "Remote Spy To Searching For Roblox Remotes",
+		"Description": "Remote Spy For Searching For Roblox Remotes",
 		"Type": "Utility",
 		"Script": "loadstring(game:HttpGet('https://pastebin.com/raw/qWjcPSPx',true))()",
 		"Creator": "Kurokku/Rebug",
