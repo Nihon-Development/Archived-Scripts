@@ -69,5 +69,14 @@
 		"Script": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()",
 		"Creator": "Trill",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900571649290670110/unknown.png"
+	},
+  	{
+		"Id": 9,
+		"Title": "Solaris V2",
+		"Description": "Solaris V2 An Amazing Hub With Even Better Features",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()",
+		"Creator": "Trill",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900571649290670110/unknown.png"
 	}
 ]
