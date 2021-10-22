@@ -70,4 +70,31 @@
 		"Creator": "Trill",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900571649290670110/unknown.png"
 	},
+  	{
+		"Id": 9,
+		"Title": "Zyrex Hub",
+		"Description": "Multi Features Hub Almost As Good As Owl Hub",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https://pastebin.com/raw/8P3xxXdG',true))()",
+		"Creator": "Zyrex",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900954119764836442/unknown.png"
+	},
+   	{
+		"Id": 10,
+		"Title": "BTools",
+		"Description": "Simple Building Tools For Fun Use And Trolling",
+		"Type": "Utility",
+		"Script": "loadstring(game:HttpGet('https://pastebin.com/raw/viv2fwgq',true))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900953969294184468/unknown.png"
+	},
+    	{
+		"Id": 10,
+		"Title": "Remote Spy",
+		"Description": "Remote Spy To Searching For Roblox Remotes",
+		"Type": "Utility",
+		"Script": "loadstring(game:HttpGet('https://pastebin.com/raw/qWjcPSPx',true))()",
+		"Creator": "Kurokku/Rebug",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900954234122555422/unknown.png"
+	},
 ]
