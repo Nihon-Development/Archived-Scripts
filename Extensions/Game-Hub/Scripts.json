@@ -97,4 +97,13 @@
 		"Creator": "Kurokku/Rebug",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/876535645990977549/900954234122555422/unknown.png"
 	},
+ 	{
+		"Id": 12,
+		"Title": "Simple Spy",
+		"Description": "Remote Spy Made Simple And Easy",
+		"Type": "Utility",
+		"Script": "loadstring(game:HttpGet('https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua'))()",
+		"Creator": "Exx#9394",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/884119955350650901/901527512134332446/TnYfwL1.png"
+	}
 ]
