@@ -105,5 +105,59 @@
 		"Script": "loadstring(game:HttpGet('https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua'))()",
 		"Creator": "Exx#9394",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/884119955350650901/901527512134332446/TnYfwL1.png"
-	}
+	},
+ 	{
+		"Id": 13,
+		"Title": "Blox Fruits",
+		"Description": "Blox Fruits Script For THe Game",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Natthawat69/EvilHub-FREE/main/Script.lua'))()",
+		"Creator": "Natthawat69",
+		"Thumbnail": "https://media.discordapp.net/attachments/872862464142868530/888609575274696725/Evil_Hub.jpg"
+	},
+ 	{
+		"Id": 14,
+		"Title": "Adopt Me",
+		"Description": "Blox Hub For Adopt Me",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://bloxhub.xyz/script/loader'))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://t0.rbxcdn.com/664d382793f450ac446bd7df9f010aae"	
+	},
+ 	{
+		"Id": 15,
+		"Title": "Breaking Point",
+		"Description": "Op Breaking Point Script",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://pastebin.com/raw/6zP579q2'))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://t3.rbxcdn.com/8818f5da4936359b0b46859f2f0385c5"
+	},
+  	{
+		"Id": 16,
+		"Title": "Work At A Pizza Place",
+		"Description": "Working Script For Work At A Pizza Place",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://gist.githubusercontent.com/TurkOyuncu99/b19b733fb8e9e0299381653c50e21e49/raw/a0c7394ba4451c6c548979103aea600d89b70f32/xxxcccc'))()",
+		"Creator": "TurkOyuncu99",
+		"Thumbnail": "https://t4.rbxcdn.com/c8bac80ea27307fbf417f2619e4b6064"
+	},
+   	{
+		"Id": 17,
+		"Title": "Piggy",
+		"Description": "Piggy Script With Tons Of Features",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Piggy'))()",
+		"Creator": "RegularVynixu",
+		"Thumbnail": "https://t4.rbxcdn.com/b020a30bc644df827f588bcb62bb07df"
+	},
+    	{
+		"Id": 18,
+		"Title": "Murder Mystery 2",
+		"Description": "Best MM2 Script Amazing Features",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script'))()",
+		"Creator": "Ethanoj",
+		"Thumbnail": "https://t3.rbxcdn.com/56cdbb2a0a764667467d6f050c65367f"
+	},
 ]
